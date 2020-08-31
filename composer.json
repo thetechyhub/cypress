@@ -1,17 +1,22 @@
 {
-    "name": "laracasts/cypress",
+    "name": "thetechyhub/cypress",
     "description": "Laravel Cypress Boilerplate",
     "keywords": [
         "laracasts",
         "cypress"
     ],
-    "homepage": "https://github.com/laracasts/cypress",
+    "homepage": "https://github.com/thetechyhub/cypress",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Jeffrey Way",
             "email": "jeffrey@laracasts.com",
+            "role": "Developer"
+        },
+        {
+            "name": "AIMEN.S.A.SASI",
+            "email": "aimensasi@icloud.com",
             "role": "Developer"
         }
     ],
