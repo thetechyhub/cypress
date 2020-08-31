@@ -11,7 +11,7 @@ This package provides the necessary boilerplate to quickly begin testing your La
 Begin by installing the package as a Composer development-only dependency.
 
 ```bash
-composer require --dev laracasts/cypress
+composer require thetechyhub/cypress --dev
 ```
 
 If you haven't yet pulled in Cypress through npm, that's your next step:
