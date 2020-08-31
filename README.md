@@ -1,5 +1,7 @@
 # Laravel + Cypress Integration
 
+> This package is a clone of [laracasts/cypress](https://github.com/laracasts/cypress) to support lower versions of php 7.2.5 or higher
+
 This package provides the necessary boilerplate to quickly begin testing your Laravel applications using Cypress.
 
 <img src="https://user-images.githubusercontent.com/183223/89684657-e2e5ef00-d8c8-11ea-825c-ed5b5acc37a4.png" width="300">
