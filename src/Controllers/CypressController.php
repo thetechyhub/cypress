@@ -16,6 +16,7 @@ class CypressController {
 			$user->assignRole($request->role);
 		}
 
+
 		auth()->login($user);
 
 		return $user;
