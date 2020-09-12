@@ -7,11 +7,6 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Artisan;
 
 class CypressController {
-
-	public function __construct() {
-		dump("DATA BASE CONNECTION", config('database.default'));
-	}
-
 	public function login(Request $request) {
 
 		$user = $this->factoryBuilder($this->userClassName())
